@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#opener {
+    width: 100%;
+    height:100vh;
+    background-image: url(images/bedshot.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+   
+}
+
+
+
+
+
+p{
+    color:rgb(0, 0, 0);
+    font-family: 'Inclusive Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 20px;
+    margin-bottom: 50px;
+    text-align: left;
+}
+
+  
+h4 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 70px;
+    font-weight:  400;
+    line-height: 1.5;
+    font-optical-sizing: auto;
+    color: #ffffff;
+    margin-bottom: 40px;
+    text-align: left;
+    padding-right: 200px;
+}
+.flex-area {
+display: flex;
+flex-direction: row;
+justify-content: center;
+background-size: cover;
+background-position: cover;
+background-color:rgb(151, 194, 86)
+}
+
+.column {
+    width:70%;
+    margin:100px 50px 100px 50px;
+    text-align: justify;
+
+}
+
+
+
+#interview-section {
+    height: 3000px;
+    background-image: none;
+    background-color: #4d8dc2;
+    background-color:cover;
+}
+.column2 {
+    width:50%;
+    margin:100px 50px 100px 50px;
+    text-align: right;
+        position: relative;
+        bottom: 250px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+
+
+}
+p::first-letter {
+
+
+    float: left;
+  
+  
+    line-height: 35px;
+  
+  
+    font-size: 55px;
+  
+    
+  
+    color: #000000;
+  
+    font-family: 'Inclusive Sans', sans-serif;
+
+  
+    padding-top: 5px;
+  
+  
+    padding-bottom: 5px;
+  
+  
+    padding-right: 5px;
+  
+  
+    padding-left: 5px;
+  
+  
+    margin-right: 5px;
+  
+  
+    margin-bottom: -5px;
+}
+  
+  
+  p {
+  
+  
+    font-size: 14px;
+    text-align: justify;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+  
+  
+  }
+
+  .column2{
+    position: relative;
+    top: 100px;
+  }
+  h1{
+    color: #2b76b4;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    font-size: 40px;
+  }
+  h2{
+    color: #2b76b4;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 10px;  
+    padding-left: 40px;
+    font-size: 40px;
+  }
+  h5{
+    color: #000;
+    text-align: center;
+    font-family: 'Inclusive Sans', sans-serif;
+
+  }
+span{
+font-style: oblique;
+}
+  
+
+h3 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 50px;
+    font-weight:  400;
+    line-height: 1.5;
+    font-optical-sizing: auto;
+    color: #ffffff;
+    margin-bottom: 40px;
+    text-align: right;
+    padding-top: 20px;
+}
+
+
+
+
+.Author{
+    position: relative; 
+    top:800px;
+    left:100px;
+}
+.SallyRooneyVogue{
+    position: relative;
+    left: 220px;
+
+}
